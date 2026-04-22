@@ -55,6 +55,11 @@ A lightweight ComfyUI canvas annotation node with rich styles, built-in presets,
 
 ---
 
+## 🖼️ 样式预览 Demo Preview
+<p align="center">
+  <img src="[这里粘贴你刚刚复制的图片链接](https://github.com/xujianjian2004/ComfyUI-Title-Memo/blob/main/ComfyUI-Title-Memo%E6%A0%B7%E5%BC%8F%E4%B8%80%E8%A7%88%E8%A1%A8.png?raw=true)" width="800"/>
+</p>
+
 ### 文字设置
 
 **对齐方式**

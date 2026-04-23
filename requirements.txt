@@ -1,0 +1,2 @@
+# ComfyUI-Title-Memo has no Python dependencies.
+# All functionality is implemented as a ComfyUI frontend extension (JavaScript).

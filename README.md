@@ -1,7 +1,7 @@
 # ComfyUI-Title-Memo
 
-A lightweight ComfyUI canvas annotation node with rich styles, built-in presets, and customizable settings.
 一个轻量级的 ComfyUI 画布注释节点（已适配 Nodes 2.0），具有丰富的样式、内置预设和自定义设置功能，可直接在工作流画布上添加标题、备注与说明。
+A lightweight ComfyUI canvas annotation node (compatible with Nodes 2.0) featuring comprehensive styling options, built-in presets, and customizable settings for directly adding titles, notes, and descriptions to workflow canvases.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom%20Node-orange.svg)

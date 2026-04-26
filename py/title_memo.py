@@ -17,7 +17,7 @@ ComfyUI-Title-Memo - Canvas Annotation Node
 - 样式数据通过 onSerialize/onConfigure 序列化到工作流 JSON
 
 作者: 穿山阅海
-版本: 1.0.0
+版本: 1.0
 许可证: MIT
 """
 

@@ -1,11 +1,11 @@
 [project]
 name = "ComfyUI-Title-Memo"
-version = "1.0.0"
-description = "A lightweight ComfyUI canvas annotation node with rich styling, built-in presets, and custom presets."
+version = "1.0"
+description = "一个轻量级的 ComfyUI 画布注释节点，支持丰富样式、内置预设与自定义预设。"
 readme = "README.md"
 license = { text = "MIT" }
 authors = [
-  { name = "WOS AI Studio", email = "xujianjian2004@126.com" }
+  { name = "穿山阅海", email = "xujianjian2004@126.com" }
 ]
 keywords = ["comfyui", "custom-node", "annotation", "canvas", "workflow"]
 requires-python = ">=3.8"
@@ -17,6 +17,6 @@ Repository = "https://github.com/xujianjian2004/ComfyUI-Title-Memo"
 Issues = "https://github.com/xujianjian2004/ComfyUI-Title-Memo/issues"
 
 [tool.comfy]
-PublisherId = "wos-ai-studio"
+PublisherId = "穿山阅海"
 DisplayName = "ComfyUI-Title-Memo"
 Icon = ""

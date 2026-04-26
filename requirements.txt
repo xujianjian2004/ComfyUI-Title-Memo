@@ -1,2 +1,5 @@
-# ComfyUI-Title-Memo has no Python dependencies.
-# All functionality is implemented as a ComfyUI frontend extension (JavaScript).
+# ComfyUI-Title-Memo -- 无 Python 依赖
+# 所有功能均通过 ComfyUI 前端扩展（JavaScript）实现，无需安装任何第三方包。
+#
+# 作者: 穿山阅海
+# 版本: 1.0

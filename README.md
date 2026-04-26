@@ -1,7 +1,7 @@
 # ComfyUI-Title-Memo
 
+A lightweight ComfyUI canvas annotation node with rich styles, built-in presets, and customizable settings.
 一个轻量级的 ComfyUI 画布注释节点（已适配 Nodes 2.0），具有丰富的样式、内置预设和自定义设置功能，可直接在工作流画布上添加标题、备注与说明。
-A lightweight ComfyUI canvas annotation node (compatible with Nodes 2.0) featuring comprehensive styling options, built-in presets, and customizable settings for directly adding titles, notes, and descriptions to workflow canvases.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom%20Node-orange.svg)
@@ -32,7 +32,7 @@ A lightweight ComfyUI canvas annotation node (compatible with Nodes 2.0) featuri
 
 ## 🎨 样式编辑器
 
-双击节点文字区域即可打开，弹出位置默认位于节点上方，并能视情况调整出现的位置（左侧与右侧），自动防止超出屏幕边界。
+双击节点文字区域即可打开，弹出位置默认位于节点左侧或右侧，自动防止超出屏幕边界。
 
 ### 预设系统
 
@@ -40,10 +40,10 @@ A lightweight ComfyUI canvas annotation node (compatible with Nodes 2.0) featuri
 
 | 预设 | 说明 |
 |---|---|
-| 透明样式 | 全透明背景，无边框，白色文字，适合轻量注释 |
-| 大标题 | 深蓝背景，蓝色发光边框与阴影，加粗大字（30px） |
-| 小标题 | 深绿背景，绿色细边框与光晕，加粗中字（20px） |
-| 备注 | 暖琥珀背景，金色边框，正常字重（12px），适合多行说明 |
+| 透明注释 | 全透明背景，无边框，白色文字，适合轻量注释（32px） |
+| 大标题 | 深蓝背景，蓝色发光边框与阴影，加粗大字（80px） |
+| 小标题 | 深绿背景，绿色细边框与光晕，正常中字（60px） |
+| 备注框 | 暖琥珀背景，金色边框，正常字重（12px），适合多行说明 |
 
 **自定义预设**
 
@@ -53,7 +53,7 @@ A lightweight ComfyUI canvas annotation node (compatible with Nodes 2.0) featuri
 
 ## 🖼️ 样式预览 Demo Preview
 <p align="center">
-  <img src="https://github.com/xujianjian2004/ComfyUI-Title-Memo/blob/main/ComfyUI-Title-Memo-Preview.jpg?raw=true" width="800"/>
+  <img src="https://github.com/xujianjian2004/ComfyUI-Title-Memo/blob/main/ComfyUI-Title-Memo%E6%A0%B7%E5%BC%8F%E4%B8%80%E8%A7%88%E8%A1%A8.png?raw=true" width="800"/>
 </p>
 
 ### 文字设置
@@ -76,7 +76,7 @@ A lightweight ComfyUI canvas annotation node (compatible with Nodes 2.0) featuri
 
 | 参数 | 范围 | 说明 |
 |---|---|---|
-| 大小 | 8 – 60 px | 文字字号，修改后节点高度实时自适应 |
+| 大小 | 8 – 100 px | 文字字号，修改后节点高度实时自适应 |
 | 透明 | 0 – 100 % | 背景填充透明度（0% 即全透明）|
 | 行距 | 0.8 – 3.0 | 行间距倍数，默认 1.5 |
 
@@ -159,4 +159,4 @@ ComfyUI-Title-Memo/
 
 ## 📄 许可证
 
-MIT © 2026 WOS AI Studio. Powered by 穿山阅海
+MIT © 2026 穿山阅海

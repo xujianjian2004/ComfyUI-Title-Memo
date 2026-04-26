@@ -6,21 +6,21 @@ ComfyUI-Title-Memo - 节点注册入口文件
 1. 导出 WEB_DIRECTORY（JavaScript 扩展目录）
 2. 动态加载 py 目录下的节点模块
 3. 注册 NODE_CLASS_MAPPINGS 和 NODE_DISPLAY_NAME_MAPPINGS
+
 功能特性：
 - 单击节点：进入文字编辑模式
 - 双击节点：打开样式编辑器
 - 拖拽边缘：手动调整节点宽度与高度
 
 作者: 穿山阅海
-版本: 1.0.0
+版本: 1.0
 """
 
 import os
 import sys
 import importlib
 
-# 获取当前文件目录路径
-python = sys.executable
+# 获取当前插件根目录的绝对路径
 file_directory = os.path.dirname(os.path.abspath(__file__))
 
 # 定义 JavaScript 扩展目录路径

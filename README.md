@@ -160,5 +160,5 @@ ComfyUI-Title-Memo/
 ## 📄 许可证
 
 未经明确授权，严禁以任何形式集成、修改或再分发。
-
-WOS AI STUDIO © 穿山阅海
+ © WOS AI STUDIO. Powered by 穿山阅海
+详见 [LICENSE](./LICENSE) 文件。

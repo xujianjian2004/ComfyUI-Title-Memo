@@ -3,9 +3,6 @@
 A lightweight ComfyUI canvas annotation node with rich styles, built-in presets, and customizable settings.
 一个轻量级的 ComfyUI 画布注释节点（已适配 Nodes 2.0），具有丰富的样式、内置预设和自定义设置功能，可直接在工作流画布上添加标题、备注与说明。
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom%20Node-orange.svg)
-
 ---
 
 ## ✨ 核心特性
@@ -143,6 +140,16 @@ ComfyUI-Title-Memo/
 
 ---
 
+## 2.0版更新日志
+
+- 重构代码，消除重复绘制与冗余样式
+- 优化监听范围，提升性能
+- 清理注释，精简文件结构
+- 统一版本、作者、分类、版权信息
+- 修复许可证描述错误
+- 无破坏性更新，可直接替换使用
+
+---
 ## 🛠 技术说明
 
 - 遵循 [ComfyUI 自定义节点规范](https://docs.comfy.org/zh-CN/custom-nodes/overview)
@@ -159,6 +166,5 @@ ComfyUI-Title-Memo/
 
 ## 📄 许可证
 
-未经明确授权，严禁以任何形式集成、修改或再分发。
- © WOS AI STUDIO. Powered by 穿山阅海
+MIT License — COPYRIGHT © WOS AI STUDIO | 穿山阅海
 详见 [LICENSE](./LICENSE) 文件。

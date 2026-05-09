@@ -1,5 +1,3 @@
-# ComfyUI-Title-Memo -- 无 Python 依赖
-# 所有功能均通过 ComfyUI 前端扩展（JavaScript）实现，无需安装任何第三方包。
-#
-# 作者: 穿山阅海
-# 版本: 1.0
+# ComfyUI-Title-Memo — 无 Python 依赖
+# 作者: 穿山阅海 | 版本: 2.0
+# COPYRIGHT © WOS AI STUDIO | 穿山阅海

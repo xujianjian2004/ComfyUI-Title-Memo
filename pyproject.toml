@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI-Title-Memo"
-version = "1.0"
+version = "2.0"
 description = "一个轻量级的 ComfyUI 画布注释节点，支持丰富样式、内置预设与自定义预设。"
 readme = "README.md"
 license = { text = "MIT" }
